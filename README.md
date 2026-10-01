@@ -11,4 +11,4 @@ Also: self-hosted LLM inference server (Go TUI, Ollama, Tailscale) on my own har
 
 Stack: TypeScript, Python, Go, PostgreSQL.
 
-I don't like AI slop.
+Anti AI slop.
